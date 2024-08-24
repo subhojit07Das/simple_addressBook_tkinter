@@ -17,4 +17,4 @@ In this step I have created a "show record" button so that when a user will clic
 Here i have a created another which will basically call the submit_db function and this is attached with the "add to address book" button\
 
 # Six
-In this i have created all the label widget, button widget. And also placed the widget at the appropriate place. 
+In this i have created all the label widget, button widget. And also placed the widget at the appropriate place.
